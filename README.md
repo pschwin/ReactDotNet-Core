@@ -1,1 +1,4 @@
-React with .Net Core
+React with ASP.Net Core
+MobX
+Typescript
+
